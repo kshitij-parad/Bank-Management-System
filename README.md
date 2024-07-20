@@ -1,4 +1,4 @@
-# Bank-Management-System-Java-Swing-Awt-
+# Bank-Management-System-Java-Swing-Awt
 Bank Management System
 This project implements a comprehensive Bank Management System with a user-friendly GUI. The application allows users to perform various banking operations efficiently and seamlessly. Key features include account creation, balance inquiries, deposits, withdrawals, and transaction history.
 
