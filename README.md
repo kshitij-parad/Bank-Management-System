@@ -2,11 +2,7 @@
 Bank Management System
 This project implements a comprehensive Bank Management System with a user-friendly GUI. The application allows users to perform various banking operations efficiently and seamlessly. Key features include account creation, balance inquiries, deposits, withdrawals, and transaction history.
 
-Key Features:
-User-Friendly Interface: The application's interface is intuitive and easy to navigate, making it accessible for all users.
-Fast and Efficient Performance: The system is designed to execute banking operations quickly, ensuring a smooth user experience.
-Data Management: The application can store and manage data for multiple account holders securely.
-Database Connectivity: The system connects to a database using Java Database Connectivity (JDBC) to store and retrieve account holder information.
+
 ![image](https://github.com/user-attachments/assets/515bd49b-2fa1-44f5-9c9f-7e7452454825)
 ![image](https://github.com/user-attachments/assets/344edb63-a05c-42b8-b2ea-c447b69eb5ba)
 ![image](https://github.com/user-attachments/assets/a8d3f0a6-7014-4fa6-8ae6-7ea734e9aeb9)
